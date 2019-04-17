@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iimeilaiz.kenegozi.com/sitemap.xml
